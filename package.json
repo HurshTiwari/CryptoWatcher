@@ -1,0 +1,28 @@
+{
+  "name": "cryptowatcher",
+  "version": "1.0.0",
+  "description": "web app to monitor cryptocurrencies",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HurshTiwari/CryptoWatcher.git"
+  },
+  "keywords": [
+    "web-app",
+    "express-app",
+    "angular-app"
+  ],
+  "author": "hursh tiwari",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HurshTiwari/CryptoWatcher/issues"
+  },
+  "homepage": "https://github.com/HurshTiwari/CryptoWatcher#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
